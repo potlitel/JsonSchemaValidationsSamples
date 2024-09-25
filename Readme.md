@@ -393,7 +393,7 @@ usage of recursive schema
 ```json
 
 {
-  ... // MORE CODE OMITTED FOR BREVITY
+  ... // MORE CODE OMITTED FOR BREVITY!!
   "properties": {
     "previousLocation": {
           "$ref": "https://smart-data-models.github.io/data-models/common-schema.json#/definitions/Location-Commons/properties/location"
